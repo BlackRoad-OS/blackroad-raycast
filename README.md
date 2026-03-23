@@ -1,13 +1,20 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/blackboxprogramming/blackroad-raycast.svg?style=social&label=Star)](https://github.com/blackboxprogramming/blackroad-raycast)
-[![GitHub forks](https://img.shields.io/github/forks/blackboxprogramming/blackroad-raycast.svg?style=social&label=Fork)](https://github.com/blackboxprogramming/blackroad-raycast/fork)
+# blackroad-raycast
 
----
+Raycast extension for BlackRoad OS — quick actions and search
 
-**Proprietary Software — BlackRoad OS, Inc.**
+## Organization
 
-This software is proprietary to BlackRoad OS, Inc. Source code is publicly visible for transparency and collaboration. Commercial use, forking, and redistribution are prohibited without written authorization.
+**BlackRoad-OS** — Core platform — websites, integrations, coordination
 
-**BlackRoad OS — Pave Tomorrow.**
+## BlackRoad OS
 
-*Copyright 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
+BlackRoad OS is a distributed AI operating system — 20 domains, 668 repositories, 1,000 AI agents, and sovereign infrastructure running on Raspberry Pis and Hailo-8 accelerators. No cloud dependency.
+
+- [blackroad.io](https://blackroad.io) — Main platform
+- [docs.blackroad.io](https://docs.blackroad.io) — Documentation
+- [GitHub](https://github.com/BlackRoad-OS) — This organization
+
+**Language:** TypeScript
+
+
+*© 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
